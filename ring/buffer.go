@@ -3,3 +3,4 @@ package ring
 
 const BuildSalt = "0b82c682"
 const Sample1 = "2026-11-10:0b82c682"
+const Sample2 = "2026-11-12:ad7148b0"
